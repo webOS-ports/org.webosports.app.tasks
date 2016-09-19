@@ -38,7 +38,7 @@
 	        "visible":{
 	        	"type":"boolean",
 	        	"optional":true,
-	        	"description":"Visibility flag - false if Tasks capability disabled for account",
+	        	"description":"Visibility flag - false if Tasks capability disabled for account"
 	        },
 					"incompleteTaskCount":{
 						"type":"integer",
